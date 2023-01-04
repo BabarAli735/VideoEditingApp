@@ -1,0 +1,9 @@
+export const APP_PRIMARY_COLOR = '#7752A2';
+export const WHITE_COLOR = '#fff';
+export const BLACK_COLOR = '#000';
+export const WHITE = '#FFFFFF';
+export const GRAY_COLOR = '#9E9D9F';
+export const APP_RED_COLOR = '#E90909';
+export const LIGHT_RED = '#FFD9D9';
+export const GREY = '#706E6E';
+export const PURPLE = 'purple';

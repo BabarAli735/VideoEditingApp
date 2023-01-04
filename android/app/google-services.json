@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "644911384693",
+    "project_id": "nooberly-32a6f",
+    "storage_bucket": "nooberly-32a6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644911384693:android:ce9529e06c5288d03ad03c",
+        "android_client_info": {
+          "package_name": "com.nooberly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644911384693-9um1jebjv4k282pf833rtmr9ducus65s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nooberly",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "644911384693-rqqn383cbtfrqb87ftiqune444kl4hvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nooberly",
+            "certificate_hash": "aaffd352106a48bfa4b1c1b9082ce0893f74402a"
+          }
+        },
+        {
+          "client_id": "644911384693-kedemlclagkct6psr69pigpf4mgdeebs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGE77dnc1F2i2Mk8dmqNhpoe8kTwodq-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644911384693-kedemlclagkct6psr69pigpf4mgdeebs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "644911384693-8tg08d1ch0061sm1ij4r4bpro301a77k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nooberly"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
